@@ -9,6 +9,7 @@
 -------------------------------------------------------------------------------------   
    Directory                        Information
 -------------------------------------------------------------------------------------
+-TAS-RL Appendix.pdf		    (Contains more results and details about the experiments)
 - READ_ME.txt                       (Contains instruction to run relevant code)
 - TASRL_MuJoCo_env_code                     
     - TAS_RL                      (Contains all the code files relevant to TAS-RL)
